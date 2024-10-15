@@ -1,0 +1,42 @@
+{
+    "0": {
+        "image": "https://yandex.ru/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fst.hzcdn.com%2Fsimgs%2Fpictures%2Fbedrooms%2Ffitzroy-development-chris-snook-img~3511f4bf00e3ff64_14-0130-1-981159e.jpg&text=rooms&rpt=simage&lr=11",
+        "name": "Помещение 1",
+        "description": "Описание помещения 1",
+        "max_persons": 2,
+        "start_date": "15.10.2024",
+        "end_date": "30.10.2024"
+    },
+    "1": {
+        "image": "https://avatars.mds.yandex.net/i?id=ae01fdc74aaad428062c8e1d9d5ed314fd4195b3-5244292-images-thumbs&n=13",
+        "name": "Помещение 2",
+        "description": "Описание помещения 2",
+        "max_persons": 3,
+        "start_date": "02.02.2024",
+        "end_date": "15.02.2024"
+    },
+    "2": {
+        "image": "https://avatars.mds.yandex.net/i?id=783a2eb9c355634605bc03b404499caf9acc4910-8376176-images-thumbs&n=13",
+        "name": "Помещение 3",
+        "description": "Описание помещения 3",
+        "max_persons": 4,
+        "start_date": "15.10.2024",
+        "end_date": "15.12.2024"
+    },
+    "3": {
+        "image": "https://avatars.mds.yandex.net/i?id=783a2eb9c355634605bc03b404499caf9acc4910-8376176-images-thumbs&n=13",
+        "name": "Помещение 4",
+        "description": "Описание помещения 4",
+        "max_persons": 5,
+        "start_date": "",
+        "end_date": ""
+    },
+    "4": {
+        "image": "https://avatars.mds.yandex.net/i?id=783a2eb9c355634605bc03b404499caf9acc4910-8376176-images-thumbs&n=13",
+        "name": "Помещение 5",
+        "description": "Описание помещения 5",
+        "max_persons": 6,
+        "start_date": "",
+        "end_date": ""
+    }
+}
